@@ -167,7 +167,7 @@ export default function App() {
               <div className="p-3 bg-cyber-dark border border-cyber-border rounded-lg hover:border-cyber-green/30 transition-colors">
                 <div className="flex items-start gap-3">
                   <Code size={16} className="text-cyber-green mt-1 shrink-0" />
-                  <span className="text-sm font-medium leading-tight">Programming with Generative AI</span>
+                  <span className="text-sm font-medium leading-tight">Programming with Generative AI(IIT GUWAHATI)</span>
                 </div>
               </div>
               <div className="p-3 bg-cyber-dark border border-cyber-border rounded-lg hover:border-cyber-green/30 transition-colors">
